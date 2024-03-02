@@ -1,0 +1,1 @@
+este pagina estatica es de una barra de busqueda
